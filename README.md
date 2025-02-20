@@ -64,7 +64,14 @@ Me chamo Felipe Fontinele,  sou natural do Piaui. Concluí meu curso técnico em
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="GIT" 
+    title="GIT"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 <br/>
 <br/>
 
